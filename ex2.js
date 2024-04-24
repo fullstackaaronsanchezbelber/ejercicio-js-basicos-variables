@@ -13,6 +13,7 @@
 
  /**
   * En este punto, que valor tendrá 'variable4'. ¿Por qué? ¿Cómo podrías comprobarlo?
+  * 1
   */
 
   variable2 = variable1;
@@ -20,4 +21,7 @@
 
 /**
   * En este punto, que valor tendrá 'variable4'. ¿Por qué? ¿Cómo podrías comprobarlo?
+  * -14
   */
+
+console.log(variable4)
